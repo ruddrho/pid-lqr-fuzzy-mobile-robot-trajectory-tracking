@@ -1,5 +1,6 @@
 # Comparative Mobile-Robot Trajectory Tracking Using PID, LQR, and Fuzzy Control
 [![MATLAB CI](https://github.com/ruddrho/pid-lqr-fuzzy-mobile-robot-trajectory-tracking/actions/workflows/matlab-ci.yml/badge.svg)](https://github.com/ruddrho/pid-lqr-fuzzy-mobile-robot-trajectory-tracking/actions)
+[![GitHub Release](https://img.shields.io/github/v/release/ruddrho/pid-lqr-fuzzy-mobile-robot-trajectory-tracking)](https://github.com/ruddrho/pid-lqr-fuzzy-mobile-robot-trajectory-tracking/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Project overview
