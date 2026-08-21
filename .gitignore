@@ -1,0 +1,16 @@
+# MATLAB temporary files
+*.asv
+*.autosave
+*.m~
+*.slxc
+
+# Generated simulation outputs
+*.mat
+*.avi
+
+# MATLAB figures and temporary exports
+*.fig
+
+# Operating system files
+.DS_Store
+Thumbs.db
